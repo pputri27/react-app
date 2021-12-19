@@ -1,4 +1,4 @@
-FROM nginx:alpine
+	FROM nginx:alpine
 
 # Set working directory for document root
 WORKDIR /usr/share/nginx/html
